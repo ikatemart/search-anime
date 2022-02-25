@@ -1,0 +1,9 @@
+.AnimeList {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -20px;
+}
+
+.AnimeList__card {
+  margin: 20px;
+}
